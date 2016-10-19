@@ -1,0 +1,18 @@
+#brandon{
+	text-decoration: underline;
+	background-color: red;
+}
+.hey{
+	color:red;
+}
+.margaret{
+	color:blue;
+}
+.margaret:hover{
+	background-color:red;
+}
+.divForStuff{
+	width:50px;
+	height:100px;
+	background-color:gold;
+}
